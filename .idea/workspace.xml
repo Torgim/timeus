@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bbadd7d-2a99-4ec4-9354-faa8a5cf5720" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.codeclimate.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.gx/lastpubver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/CODEOWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Dockerfile.fast" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/Godeps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/hashicorp/golang-lru/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/hashicorp/golang-lru/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/hashicorp/golang-lru/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/hashicorp/golang-lru/lru.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/hashicorp/golang-lru/lru_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/lib.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/random-files/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/random-files/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/random-files/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/ringreader/ringreader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random-files/ringreader/ringreader_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/lib.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/random/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/random/random.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random/random_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir/homedir.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir/homedir_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/texttheater/golang-levenshtein/levenshtein/levenshtein.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Godeps/_workspace/src/github.com/texttheater/golang-levenshtein/levenshtein/levenshtein_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/assets.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/assets_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/bindata.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/about" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/contact" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/docs/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/help" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/ping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/quick-start" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/assets/init-doc/security-notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/archive-branches.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/check_go_path" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/check_go_version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/check_gx_program" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/check_version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/circle.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/container_daemon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/dist_get" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/gencmdref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/graphmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/ipns-republish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/maketarball.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/mkreleaselog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/bin/test-go-fmt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/blocks/blockstoreutil/remove.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/blockservice/blockservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/blockservice/blockservice_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/blockservice/test/blocks_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/blockservice/test/mock.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/ci/Dockerfile.buildenv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/ci/Jenkinsfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/circle.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/daemon.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/dist/install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/init.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/ipfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/runmain_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/util/ulimit.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/util/ulimit_freebsd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/util/ulimit_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/util/ulimit_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfs/util/ulimit_windows.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfswatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfswatch/ipfswatch_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/ipfswatch/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/seccat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/seccat/seccat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/cmd/seccat/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/codecov.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/command.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/legacy/command.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/legacy/legacy.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/legacy/legacy_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/legacy/request.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/legacy/response.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/reqlog.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/request.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/commands/response.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/contribute.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/bootstrap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/bootstrap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/builder.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/active.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/add.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/bitswap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/block.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/bootstrap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/cat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/commands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/commands_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/dag/dag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/dht.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/dht_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/diag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/dns.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/e/error.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/env.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/external.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/files.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/filestore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/get.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/get_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/helptext_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/id.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/ipns.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/ipnsps.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/keystore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/log.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/ls.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/mount_nofuse.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/mount_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/mount_windows.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/name.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/object/diff.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/object/object.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/object/patch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/p2p.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/pin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/ping.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/publish.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/pubsub.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/refs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/repo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/resolve.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/root.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/root_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/shutdown.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/stat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/swarm.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/sysdiag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/tar.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/unixfs/ls.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/unixfs/unixfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/commands/version.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/core.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/core_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/block.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/block_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/coreapi.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/dag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/dag_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/block.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/coreapi.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/dag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/key.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/name.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/object.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/block.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/dag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/key.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/name.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/object.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/options/pin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/path.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/pin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/unixfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/interface/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/key.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/key_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/name.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/name_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/object.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/object_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/pin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/pin_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/unixfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreapi/unixfs_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coredag/cbor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coredag/dagpb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coredag/dagtransl.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coredag/raw.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/commands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/corehttp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/gateway.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/gateway_handler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/gateway_indexPage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/gateway_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/ipns_hostname.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/logs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/metrics.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/metrics_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/option_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/redirect.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corehttp/webui.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corerepo/gc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corerepo/pinning.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/corerepo/stat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/add.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/add_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/cat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/metadata.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/metadata_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/test_data/colors/orange" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/test_data/corps/apple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/test_data/fruits/apple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/coreunix/test_data/fruits/orange" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/mock/mock.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/pathresolver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/core/pathresolver_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/coverage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/coverage/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/coverage/main/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/dev.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/command-completion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/config.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/datastores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/debug-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/developer-certificate-of-origin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/experimental-features.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/file-transfer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/fuse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/generate-authors.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/github-issue-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/implement-api-bindings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/openbsd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/plugins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/releases.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/transports.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/docs/windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/bitswap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/bitswap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/bench_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/engine.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/engine_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/ledger.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/peer_request_queue.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/decision/peer_request_queue_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/get.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/message.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/message_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/pb/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/pb/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/pb/message.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/message/pb/message.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/network/interface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/network/ipfs_impl.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/notifications/notifications.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/notifications/notifications_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/session.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/session_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/stat.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/testnet/interface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/testnet/network_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/testnet/peernet.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/testnet/virtual.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/testutils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/wantlist/wantlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/wantlist/wantlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/wantmanager.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/bitswap/workers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/reprovide/providers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/reprovide/reprovide.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/exchange/reprovide/reprovide_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/filestore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/filestore_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/fsrefstore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/pb/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/pb/dataobj.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/pb/dataobj.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/filestore/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/ipns/common.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/ipns/ipns_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/ipns/ipns_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/ipns/link_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/ipns/mount_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/mount/fuse.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/mount/mount.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/node/mount_darwin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/node/mount_nofuse.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/node/mount_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/node/mount_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/node/mount_windows.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/readonly/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/readonly/ipfs_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/readonly/mount_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/fuse/readonly/readonly_unix.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/balanced/balanced_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/balanced/builder.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/helpers/dagbuilder.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/helpers/helpers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/importer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/importer_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/trickle/trickle_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/importer/trickle/trickledag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/keystore/keystore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/keystore/keystore_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/keystore/memkeystore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/keystore/memkeystore_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/coding.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/errservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/merkledag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/merkledag_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/node.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/node_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/pb/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/pb/merkledag.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/pb/merkledag.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/pb/merkledagpb_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/raw.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/readonly.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/readonly_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/rwservice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/session.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/test/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/traverse/traverse.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/traverse/traverse_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/utils/diff.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/utils/diffenum.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/utils/diffenum_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/utils/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/merkledag/utils/utils_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/dir.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/fd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/file.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/mfs_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/ops.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/repub_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mfs/system.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/misc/completion/ipfs-completion.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/misc/launchd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/misc/launchd/install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/misc/launchd/io.ipfs.ipfs-daemon.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/footer.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/git.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/golang.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/gx.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/header.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/tarball.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/mk/util.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/base.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/dns.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/dns_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/interface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/ipns_select_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/ipns_validate_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/namesys.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/namesys_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/opts/opts.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/pb/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/pb/namesys.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/pb/namesys.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/proquint.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/publisher.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/publisher_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/pubsub.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/pubsub_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/republisher/repub.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/republisher/repub_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/resolve_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/routing.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/selector.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/namesys/validator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/p2p/p2p.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/p2p/registry.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/path/path.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/path/path_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/path/resolver/resolver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/path/resolver/resolver_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/gc/gc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/internal/pb/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/internal/pb/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/internal/pb/header.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/internal/pb/header.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/pin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/pin_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/set.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/pin/set_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/ipld.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/initializer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/load.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/load_linux.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/preload.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/preload.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/loader/preload_list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/plugin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/plugins/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/plugins/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/plugins/gen_main.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/plugins/git/git.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/plugin/tracer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/common/common.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/addresses.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/api.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/bootstrap_peers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/datastore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/discovery.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/experiments.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/gateway.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/identity.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/init.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/ipns.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/mounts.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/profile.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/reprovider.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/routing.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/swarm.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/config/version.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/config_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/datastores.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/fsrepo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/fsrepo_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/migrations/mfsr.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/migrations/mfsr_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/migrations/migrations.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/migrations/unpack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/misc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/serialize/serialize.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/fsrepo/serialize/serialize_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/mock.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/onlyone.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/repo/repo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/tar/format.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bin/clean.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bin/save_logs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bin/save_profiling_data.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bootstrap/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/bootstrap/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/build/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/build/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/client/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/client/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/data/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/fig.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/run-test-on-img.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/server/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/3nodetest/server/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/api-startup/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bench/bench_cli_ipfs_add/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bench/offline_add/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bin/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bin/checkflags" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bin/continueyn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/bin/verify-go-fmt.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-sleep/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-sleep/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-sleep/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-sleep/go-sleep.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-timeout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-timeout/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/go-timeout/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/ma-pipe-unidir/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/dependencies/ma-pipe-unidir/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/addcat_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/bench_cat_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/bench_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/bitswap_wo_routing_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/integration/three_legged_cat_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/ipfs-test-lib.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/0001-Generate-partial-JUnit-reports.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/gen-junit-report.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/install-sharness.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/iptb-lib.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/random-dep.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/test-aggregate-results.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/test-lib-hashes.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/lib/test-lib.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0010-basic-commands.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0015-basic-sh-functions.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0018-indent.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0020-init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0021-config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0022-init-default.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0023-shutdown.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0024-datastore-config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0024-files/spec-newshardfun" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0024-files/spec-nosync" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0025-datastores.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0030-mount.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0031-mount-publish.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0040-add-and-cat.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0041-ping.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0042-add-skip.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0043-add-w.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0044-add-symlink.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0045-ls.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0050-block.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/UTF-8-test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/brokenPut.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/brokenPut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/expected_getOut" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/testPut.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/testPut.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object-data/testPut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0051-object.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0052-object-diff.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0053-dag-data/non-canon.cbor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0053-dag.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0060-daemon.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0060-data/mss-ls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0061-daemon-opts.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0062-daemon-api.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0063-daemon-init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0063-external.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0065-active-requests.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0066-migration.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0070-user-config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0080-repo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0081-repo-pinning.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0082-repo-gc-auto.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0083-repo-fsck.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0084-repo-read-rehash.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0085-pins.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0086-repo-verify.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0087-repo-robust-gc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0088-repo-stat-symlink.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0090-get.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0100-name.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0101-iptb-name.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0110-gateway-data/foo.block" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0110-gateway-data/foofoo.block" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0110-gateway.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0111-gateway-writeable.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0112-gateway-cors.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0120-bootstrap.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0121-bootstrap-iptb.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0125-twonode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0130-multinode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0131-multinode-client-routing.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0140-swarm.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0141-addfilter.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0150-clisuggest.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0151-sysdiag.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0160-resolve.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0165-keystore.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0170-dht.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0175-reprovider.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0180-p2p.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0180-pubsub.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0181-private-network.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0182-circuit-relay.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0183-namesys-pubsub.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0200-unixfs-ls.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0210-tar.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0220-bitswap.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0230-channel-streaming-http-content-type.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0231-channel-streaming.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0235-cli-request.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0240-republisher.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0250-files-api.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0251-files-flushing.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0252-files-gc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0260-sharding.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0270-filestore.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0271-filestore-utils.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0275-cid-security-data/AFKSEBCGPUJZE.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0275-cid-security-data/CIQG6PGTD2VV34S33BE4MNCQITBRFYUPYQLDXYARR3DQW37MOT7K5XI.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0275-cid-security.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0280-plugin-git-data/git.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0280-plugin-git.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0300-docker-image.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0301-docker-migrate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0400-api-security.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0410-api-add.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0500-issues-and-regressions-offline.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/t0600-issues-and-regressions-online.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness/x0601-pin-fail-test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/test/sharness_test_coverage_helper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/assert/assert.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/dir/dir.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/math2/math2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/notifier/notifier.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/notifier/notifier_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/pollEndpoint/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/unit/unit.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/unit/unit_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/verifbs/verifbs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/verifcid/validate.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/thirdparty/verifcid/validate_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/archive/archive.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/archive/tar/writer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/hamt/hamt.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/hamt/hamt_stress_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/hamt/hamt_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/hamt/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/hamt/util_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/bufdagreader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/dagreader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/dagreader_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/dirbuilder.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/dirbuilder_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/pbdagreader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/io/resolve.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/mod/dagmodifier.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/mod/dagmodifier_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/pb/Rules.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/pb/unixfs.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/pb/unixfs.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/test/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/unixfs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-ipfs/unixfs/unixfs_test.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/1timeus$block.coverage" NAME="block Coverage Results" MODIFIED="1529883757925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="block.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/block.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/block.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ipfs/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1timeus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1timeus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1timeus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1timeus" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="block" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1timeus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/block.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.block" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bbadd7d-2a99-4ec4-9354-faa8a5cf5720" name="Default" comment="" />
+      <created>1529882645271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529882645271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962406" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
